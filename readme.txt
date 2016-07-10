@@ -1,1 +1,11 @@
-blo
+B
+
+
+
+B
+B
+B
+C
+C
+C
+lo
